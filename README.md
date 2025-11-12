@@ -3,7 +3,7 @@
 
 Um banco digital interativo desenvolvido em Java, executado via terminal, com suporte a investimentos em múltiplas moedas, conversões cambiais em tempo real via ExchangeRate-API e interface textual totalmente formatada.
 
-> 🚀 Projeto educacional inspirado no Challenge Conversor de Moedas da Alura, parte da formação Java Orientação a Objetos. Desenvolvido com foco em prática de API, POO e manipulação de dados JSON no back-end Java.
+> 🚀 Projeto educacional - Challenge Conversor de Moedas da Alura - parte da formação Java Orientação a Objetos. Desenvolvido com foco em prática de API, POO e manipulação de dados JSON no back-end Java.
 ---
 ## 🧭 Visão Geral
 
