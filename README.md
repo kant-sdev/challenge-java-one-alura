@@ -87,7 +87,6 @@ Permite visualizar dados da conta e lista de investimentos realizados.
 | 🗝️ Java-dotenv | Responsável por carregar variáveis de ambiente a partir do arquivo .env, como a chave da API de câmbio. |
 | 💾 Collections (List, Map) | Para gerenciar dados como contas e investimentos em memória de forma organizada. |
 | 🎨 Text Blocks e Emojis| Melhoram a legibilidade e experiência do usuário no terminal. |
-| 🗝️ Java-dotenv | Para leitura de variaveis de ambiente |
 
 ---
 
@@ -178,7 +177,7 @@ Desenvolvido por **Kant-sdev**
    
 📚 Projeto educacional inspirado nos desafios da **Oracle Next Education (ONE)** em parceria com a **Alura**.
 
-*[Linkedin](www.linkedin.com/in/kauã-cantanhêde)*
+*[Linkedin](https://www.linkedin.com/in/kau%C3%A3-cantanh%C3%AAde/)*
 
 ---
 
